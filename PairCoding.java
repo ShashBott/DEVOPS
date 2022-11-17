@@ -25,7 +25,7 @@ class PairCoding
            hcf = i;
         }
 
-         System.out.println("The HCF: "+ hcf);
+         System.out.println("The HCF : "+ hcf);
     }
 
 
